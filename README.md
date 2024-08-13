@@ -1,3 +1,4 @@
+![logo](https://github.com/v1dhi29/README/blob/main/side.jpg)
 <h1 align="center">Hi 👋, I'm Vidhi</h1>
 <img align = "right" alt = "Coding" width="400" src="https://i.pinimg.com/564x/aa/45/ab/aa45ab42358d9696fe18bcb0d65aa911.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v1dhi29&label=Profile%20views&color=0e75b6&style=flat" alt="v1dhi29" /> </p>
